@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<FoodItemData
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='file:/Users/fcalliss/Dropbox/NB7.2_Projects/CreationalPatterns/src/main/resources/edu/asu/codesamples/cse460/creationalpatterns/dao/FoodItemDataXmlSchema.xsd'>
+    <FoodItem country="GB">
+        <id>100</id>
+        <name>Steak and Kidney Pie</name>
+        <description>Tender cubes of steak, with tender lamb kidney is succulent rich gravy.  Served with a side of mashed potatoes and peas.</description>
+        <category>Dinner</category>
+        <price>15.95</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>101</id>
+        <name>Toad in the Hole</name>
+        <description>Plump British Pork sausages backed in a light batter.  Served with mixed vegetables and a brown onion gravy.</description>
+        <category>Dinner</category>
+        <price>13.95</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>102</id>
+        <name>Ploughman’s Salad</name>
+        <description>Pork Pie, Pickled Onions, Pickled relish Stilton and Cheddar cheeses and crusty French bread.</description>
+        <category>Lunch</category>
+        <price>10.95</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>103</id>
+        <name>Fish and Chips</name>
+        <description>A large piece of Cod in a covered in a light crisp batter, recipe is a family secret, with a side of Chips and Mushy Peas.  Scraps available by request at no  extra charge.</description>
+        <category>Dinner</category>
+        <price>14.95</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>104</id>
+        <name>Fish and Chips</name>
+        <description>A smaller portion of our Dinner version</description>
+        <category>Lunch</category>
+        <price>10.95</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>105</id>
+        <name>Traditional English Breakfast</name>
+        <description>The breakfast of champions.  2 Fried eggs, 1 English pork sausage, 1 Back Bacon, 2 pieces of black pudding, baked beans, and 1 slice of fried bread.  Served with Brown Sauce</description>
+        <category>Breakfast</category>
+        <price>10.95</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>106</id>
+        <name>Irish Breakfast</name>
+        <description>The Irish version of the English breakfast.  2 Fried eggs, 1 Irish pork sausage, 1 rasher, 1 piece of black pudding, 1 piece of white pudding, baked beans, and Irish soda bread.</description>
+        <category>Breakfast</category>
+        <price>10.95</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>107</id>
+        <name>Sausage Roll</name>
+        <description>English sausage meat wrapped in a flakey pastry. Served with Brown Sauce</description>
+        <category>Appetizer</category>
+        <price>6.95</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>108</id>
+        <name>Scotch Egg</name>
+        <description>A hard-boiled egg, wrapped in pork sausage meat.  Covered in breadcrumbs and deep-fried.  Served cold with a side of picked relish.</description>
+        <category>Appetizer</category>
+        <price>6.95</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>109</id>
+        <name>Prawn Cocktail Flavoured Crisps</name>
+        <description>The classic exotic crisp flavour.</description>
+        <category>Snack</category>
+        <price>1.95</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>110</id>
+        <name>Cheese and Onion Flavoured Crisps</name>
+        <description>Mum's favourite.</description>
+        <category>Snack</category>
+        <price>1.95</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>111</id>
+        <name>Spotted Dick</name>
+        <description>The Classic Desert.  Steamed suet pudding with currents covered in custard</description>
+        <category>Dessert</category>
+        <price>11.95</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>112</id>
+        <name>Eton Mess</name>
+        <description>Favourite of the old Boys.  A mixture of strawberries, pieces of meringue and cream.  Old school tie not included!</description>
+        <category>Dessert</category>
+        <price>11.95</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>113</id>
+        <name>Jam Roly-Poly</name>
+        <description>Strawberry Jam rolled up in a suet pudding.  Served  with Custard</description>
+        <category>Dessert</category>
+        <price>11.95</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>114</id>
+        <name>Chip Butty</name>
+        <description>A soft white roll, slathered with butter and filled with Chips fresh out of the fryer</description>
+        <category>Snack</category>
+        <price>2.55</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>115</id>
+        <name>Pickled Onions</name>
+        <description>Golf ball sized onions pickled in vinegar and assorted spices.  These onions bite back</description>
+        <category>Appetizer</category>
+        <price>2.75</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>116</id>
+        <name>Pickled Eggs</name>
+        <description>Large hard-boiled eggs pickled in vinegar and assorted spices.  These onions bite back</description>
+        <category>Appetizer</category>
+        <price>2.75</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>117</id>
+        <name>Mashed Potatoes</name>
+        <description>Hand Mashed potatoes</description>
+        <category>Side Dish</category>
+        <price>1.00</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>119</id>
+        <name>Cracklin</name>
+        <description>Salted and roasted pork fat and skin.</description>
+        <category>Snack</category>
+        <price>1.95</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>120</id>
+        <name>Lancashire Hotpot</name>
+        <description>The famous English Lamb and Mutton stew. Tender succulent pieces of Lamb and Mutton topped with sliced potatoes, slow roasted in the oven.</description>
+        <category>Dinner</category>
+        <price>16.95</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>121</id>
+        <name>Faggots</name>
+        <description>Succulent meatballs made from ground pig's heart, livers and pork belly.  Served with a brown gravy mashed potatoes and peas</description>
+        <category>Dinner</category>
+        <price>14.95</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>122</id>
+        <name>Chicken Tikka Masala</name>
+        <description>Britain new national dish.  Chunks of roasted chicken in a mildly spicy Masala sauce.  Served with Basmati rice</description>
+        <category>Dinner</category>
+        <price>13.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>200</id>
+        <name>Glazed Doughnut</name>
+        <description>Deep fried pastry covered in sugar glaze.</description>
+        <category>Appetizer</category>
+        <price>0.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>201</id>
+        <name>Jelly Doughnut</name>
+        <description>Deep fried pastry covered in sugar, and filled with strawberry jelly.</description>
+        <category>Appetizer</category>
+        <price>0.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>202</id>
+        <name>Hamburger</name>
+        <description>Despite the name, ground beef cooked over a charcoal grill with a side of French Fries.</description>
+        <category>Lunch</category>
+        <price>11.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>203</id>
+        <name>Cheeseburger</name>
+        <description>Same as the Hamburger with a side of cheddar cheese added.</description>
+        <category>Lunch</category>
+        <price>12.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>204</id>
+        <name>Meatloaf and Mashed Potatoes</name>
+        <description>Meatloaf, Mashed Potatoes, Brown gravy and Broccoli.</description>
+        <category>Lunch</category>
+        <price>18.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>205</id>
+        <name>Pazooki</name>
+        <description>A large 6 inch round chocolate chip cookie, served warm with 3 large scoops of vanilla ice cream.</description>
+        <category>Dessert</category>
+        <price>7.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>206</id>
+        <name>Banana Split</name>
+        <description>One banana cut lengthwise served with scoops of vanilla, chocolate and strawberry ice cream and topped with Pineapple, chocolate and strawberry syrup.</description>
+        <category>Dessert</category>
+        <price>7.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>207</id>
+        <name>Pot Roast</name>
+        <description>Beef with vegetables slow cooked for a minimum of 8 hours</description>
+        <category>Dinner</category>
+        <price>14.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>208</id>
+        <name>Southern Fried Chicken with Waffle</name>
+        <description>Southern fried chicken, savoury waffles and smokey maple syrup</description>
+        <category>Dinner</category>
+        <price>14.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>209</id>
+        <name>Pork Rinds</name>
+        <description>Salted and roasted pork fat and skin.</description>
+        <category>Snack</category>
+        <price>1.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>210</id>
+        <name>Bacon Wrapped Hot Dog</name>
+        <description>Take one hot dog, wrap it in bacon and cook until the bacon is nice and crisp.  Then place it in the bun.</description>
+        <category>Snack</category>
+        <price>4.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>211</id>
+        <name>Hushpuppies</name>
+        <description>Cornbread dough deep fired served with a variety of dipping sauces.</description>
+        <category>Appetizer</category>
+        <price>4.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>212</id>
+        <name>Biscuits and Gravy</name>
+        <description>This is a hearty breakfast favorite. Biscuits served with hot sausage gravy </description>
+        <category>Breakfast</category>
+        <price>10.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>214</id>
+        <name>Sweet Potato Fries</name>
+        <description>Sweet potatoes, thinly sliced and fried in Canola Oil</description>
+        <category>Side Dish</category>
+        <price>9.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>215</id>
+        <name>Grits</name>
+        <description>Creamy cornmeal served with butter</description>
+        <category>Side Dish</category>
+        <price>2.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>216</id>
+        <name>Grilled Cheese and Ham</name>
+        <description>Sliced ham, American cheese between two slices of White bread buttered on the outside and then fried.</description>
+        <category>Snack</category>
+        <price>4.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>217</id>
+        <name>Succotash</name>
+        <description>Our version consists of: corn, lima beans, green pepper and sweet red peppers.  Cooked in a casserole to form a light pie crust</description>
+        <category>Side Dish</category>
+        <price>1.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>218</id>
+        <name>Rocky Mountain Oysters</name>
+        <description>Bull calf testicles, lightly seasoned, covered in flour and deep-fried.  Served with cocktail sauce</description>
+        <category>Side Dish</category>
+        <price>1.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>219</id>
+        <name>Jambalaya</name>
+        <description>Creole style Jambalaya, with chicken, andouille sausage, tomatoes, onions, crawfish and rice.  Good enough to have you Fais-do-do-ing</description>
+        <category>Lunch</category>
+        <price>14.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>220</id>
+        <name>Crawfish Etouffee</name>
+        <description>Thick Crawfish stew served over Dirty Rice</description>
+        <category>Dinner</category>
+        <price>14.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>221</id>
+        <name>Dirty Rice</name>
+        <description>American long grain rice with finely chopped chicken livers and giblets.</description>
+        <category>Dinner</category>
+        <price>1.95</price>
+    </FoodItem>
+    <FoodItem country="IN">
+        <id>300</id>
+        <name>Lamb Vindaloo</name>
+        <description>Spicy curry from southern India. Served with basmati rice.</description>
+        <category>Dinner</category>
+        <price>19.95</price>
+    </FoodItem>
+    <FoodItem country="IN">
+        <id>301</id>
+        <name>Aloo Gobi</name>
+        <description>A mild cauliflower and potato dish</description>
+        <category>Side Dish</category>
+        <price>6.95</price>
+    </FoodItem>
+    <FoodItem country="US">
+        <id>213</id>
+        <name>The All American Breakfast</name>
+        <description>Two fried eggs, Sausage (patty or link), crispy bacon, pancakes and maple syrup </description>
+        <category>Breakfast</category>
+        <price>9.95</price>
+    </FoodItem>
+    <FoodItem country="GB">
+        <id>118</id>
+        <name>Swede</name>
+        <description>Hand Mashed Swede</description>
+        <category>Side Dish</category>
+        <price>1.00</price>
+    </FoodItem>
+</FoodItemData>
+
